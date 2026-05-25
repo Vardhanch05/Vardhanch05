@@ -9,9 +9,8 @@
 
 🔹 **[SEC Multi-Hop RAG](https://github.com/Vardhanch05/sec-multi-hop-rag/)** — Multi-hop RAG system for querying SEC filings using advanced retrieval pipelines and LLM reasoning.
 
-🔹 **[RAG Appliance Assistant](YOUR_REPO_LINK)** — AI-powered troubleshooting assistant with OCR, voice I/O, manual retrieval and conversational support.
+🔹 **[RAG Appliance Assistant](https://github.com/Vardhanch05/AI_TechSupport)** — AI-powered troubleshooting assistant with OCR, voice I/O, manual retrieval and conversational support.
 
-🔹 **[LeetCode Bulk Profile Analyzer](YOUR_REPO_LINK)** — Streamlit dashboard for analyzing multiple LeetCode profiles via GraphQL APIs with leaderboard analytics.
 
 ---
 
