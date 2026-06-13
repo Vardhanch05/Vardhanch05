@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **vardhanchilakamarri4567@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vISLvnXmGEeQwwjDHbOf5g6iRSF531Za/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VzGlXXobPhSnrDFlmKyrLbLGQLSkV3JY/view?usp=sharing)
 
 - ⚡ Fun fact **I build AI projects faster than I finish watching tutorials**
 
